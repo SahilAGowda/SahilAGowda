@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil A Gowda</h1>
 <h3 align="center">An Enthusiastic Full Stack Developer Based in India, Crafting Seamless Solutions.</h3>
 
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilagowda&label=Profile%20views&color=0e75b6&style=flat" alt="sahilagowda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilagowda" alt="sahilagowda" /></a> </p>
