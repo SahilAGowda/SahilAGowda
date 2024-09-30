@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil A Gowda</h1>
-<h3 align="center">An Enthusiastic Full Stack Developer Based in India, Crafting Seamless Solutions.</h3>
+<h3 align="center">An Enthusiastic Full Stack Developer from India. </h3>
 
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
@@ -13,11 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Smart Layer Deep Neural Network**
 
-- 🤝 I’m looking for help with **Neural Networks**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sahilgowda](https://github.com/Sahilgowda)
 
-- 💬 Ask me about **CoreJava,Flask**
+- 💬 Ask me about **CoreJava.**
 
 - 📫 How to reach me **sahilgowda204@gmail.com**
 
