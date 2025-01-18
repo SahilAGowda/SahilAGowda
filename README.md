@@ -1,30 +1,24 @@
-<!-- Header Banner -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sahil+A+Gowda+👋;Welcome+to+my+GitHub+Profile!&center=true&size=25">
+</h1>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3EAAFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Sahil;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Enthusiast;%F0%9F%9A%80+Innovation+Driven" alt="Typing SVG" />
-  </h1>
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Based_in-India-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </div>
 
-<!-- Badges -->
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/sahilagowda">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/sahilagowda">
+    <img src="https://komarev.com/ghpvc/?username=sahilagowda&color=blue&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://linkedin.com/in/sahilagowda">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:sahilgowda204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/u/sahilgowda204">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sahilagowda&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 <!-- About Me -->
@@ -57,7 +51,7 @@ hobbies: ["Competitive Programming", "Open Source", "Tech Blogging"]
 
 <!-- Tech Stack -->
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🔧 Tech Stack</h2>
 </div>
 
 <details open>
@@ -96,6 +90,31 @@ hobbies: ["Competitive Programming", "Open Source", "Tech Blogging"]
 </div>
 </details>
 
+## 🎯 Current Focus
+
+- 🔭 Working on: **Image Quality Assessment**
+- 🌱 Mastering: **Spring Boot & Advanced Backend Architectures**
+- 💯 Open to collaborate on: **Smart Layer Deep Neural Networks**
+- 📧 Reach me at: **sahilgowda204@gmail.com**
+- 🗄︎ Check my experience: [Resume](https://github.com/SahilAGowda/Resume)
+
+## 🌟 Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/u/sahilgowda204/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/sahilgowda204">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sahilgowda204">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sahilgooop6/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksForGeeks"/>
+  </a>
+</div>
+
 <!-- GitHub Stats -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
@@ -110,41 +129,35 @@ hobbies: ["Competitive Programming", "Open Source", "Tech Blogging"]
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilagowda&theme=tokyonight" width="100%">
 </div>
 
-<!-- Featured Projects -->
-<div align="center">
-  <h2>🔥 Featured Projects</h2>
-</div>
+## 🔁 Contribution Graph
 
-<div align="center">
-  <a href="https://github.com/sahilagowda/tr-cnn-iqa-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilagowda&repo=tr-cnn-iqa-architecture&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilagowda&theme=tokyo-night&hide_border=true)
 
-<!-- Coding Stats -->
-<div align="center">
-  <h2>💻 Coding Stats</h2>
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sahilgowda204?theme=dark&font=Noto%20Sans&ext=activity" width="495px">
-</div>
-
-<!-- Spotify -->
-<div align="center">
-  <h2>🎵 Coding Vibes</h2>
-</div>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k54cwfs5wlellm6qbwedfqmhyy&count=1" alt="Spotify recently played">
-</div>
-
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<!-- Profile Trophy -->
+<!-- Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sahilagowda&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
   </a>
 </div>
+
+<!-- Footer -->
+<!-- Footer -->
+<div align="center" style="margin-top: 20px; padding: 20px; background-color: #f4f4f4; border-top: 2px solid #ccc;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+collaborate!&center=true&size=23">
+  <div style="margin-top: 10px;">
+    <a href="https://linkedin.com/in/sahilagowda" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sahilgowda204@gmail.com" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/sahilagowda" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+  </div>
+ <p style="margin-top: 20px; font-size: 15px; color: #555; text-align: center; background-color: #f9f9f9; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <strong>© 2025 Sahil A Gowda | All Rights Reserved</strong>
+</p>
+
+</div>
+
