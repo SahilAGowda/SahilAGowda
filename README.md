@@ -2,9 +2,9 @@
 
 # Sahil A Gowda
 
-### Software Development Engineer @ DIATOZ Solutions · AI Systems
+### Software Development Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+AI+voice+%26+automation+pipelines;Java+%2F+Spring+Boot+%2F+Elasticsearch;LangChain+%2F+LangGraph+%2F+RAG+systems;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%2F+Spring+Boot+%2F+Elasticsearch;LangChain+%2F+LangGraph+%2F+RAG+systems;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
 
 <p>
 <img src="https://img.shields.io/badge/SIH_2025-Finalist-orange?style=flat-square"/>
