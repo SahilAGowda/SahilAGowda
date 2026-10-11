@@ -54,7 +54,7 @@ CS graduate from Cambridge Institute of Technology (9.25 CGPA, 2026).
 <p align="center">
 <a href="mailto:sahilgowda204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sahil-a-gowda-551b32270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[https://drive.google.com/file/d/18J12OUB3eHqyau7Jx8SMBgdIpLxiHtFN/view?usp=sharing](https://drive.google.com/file/d/1fP2j9sZiQx5iYNOz5aVmSBFTLuZEzlPj/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1fP2j9sZiQx5iYNOz5aVmSBFTLuZEzlPj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/></a>
 <a href="https://leetcode.com/u/SahilAGowda/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 <a href="https://sahil-a-gowda-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/SahilAGowda"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
